@@ -1,0 +1,28 @@
+2024-07-30 10:26:48 - Starting watcher.py...
+2024-07-30 10:26:48 - Total memory usage: 6651.86 MB
+2024-07-30 10:26:48 - GPU usage: 38%
+2024-07-30 10:26:49 - CPU usage: 33.6%
+2024-07-30 10:26:49 - Resource usage exceeded limits. Restarting processes...
+2024-07-30 10:26:50 - Killing process with PID: 7700
+2024-07-30 10:26:50 - Killing process with PID: 9744
+2024-07-30 10:26:50 - Killing process with PID: 15892
+2024-07-30 10:27:10 - Starting watcher.py...
+2024-07-30 10:27:10 - Total memory usage: 6602.68 MB
+2024-07-30 10:27:10 - GPU usage: 35%
+2024-07-30 10:27:11 - CPU usage: 31.8%
+2024-07-30 10:27:11 - Resource usage exceeded limits. Restarting processes...
+2024-07-30 10:27:12 - Killing process with PID: 5128
+2024-07-30 10:27:12 - Killing process with PID: 11064
+2024-07-30 10:27:27 - Starting watcher.py...
+2024-07-30 10:27:27 - Total memory usage: 6514.26 MB
+2024-07-30 10:27:27 - GPU usage: 39%
+2024-07-30 10:27:28 - CPU usage: 32.3%
+2024-07-30 10:27:28 - Resource usage exceeded limits. Restarting processes...
+2024-07-30 10:27:29 - Killing process with PID: 11168
+2024-07-30 10:32:13 - Starting watcher.py...
+2024-07-30 10:32:13 - Total memory usage: 8129.91 MB
+2024-07-30 10:32:13 - GPU usage: 36%
+2024-07-30 10:32:14 - CPU usage: 29.9%
+2024-07-30 10:32:14 - Resource usage exceeded limits. Restarting processes...
+2024-07-30 10:32:15 - Killing process with PID: 5088
+2024-07-30 10:32:15 - Killing process with PID: 9448
